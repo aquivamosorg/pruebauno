@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/aquivamosorg/pruebauno/issues"
   },
-  "homepage": "https://github.com/aquivamosorg/pruebauno#readme"
+  "homepage": "https://github.com/aquivamosorg/pruebauno#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
