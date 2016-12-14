@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "gulp-pug": "^3.2.0",
+    "gulp-rename": "^1.2.2",
     "gulp-stylus": "^2.6.0",
     "pug": "^2.0.0-beta6",
     "stylus": "^0.54.5"
