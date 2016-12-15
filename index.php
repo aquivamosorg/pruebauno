@@ -1,0 +1,1 @@
+<html><head><?php include('head.php'); ?></head><body><header>este es el header</header><div class="green">este es un contenido</div></body></html>
